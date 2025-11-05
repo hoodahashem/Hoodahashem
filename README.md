@@ -1,22 +1,23 @@
 ![](assets/Bottom_up.svg)
 
 <div align="center">
-<a href="https://www.python.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" align="right" height="48" width="48" </a>
-  <br>
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=25&pause=1000&color=F7F7F7&center=true&vCenter=true&random=false&width=435&lines=Hi%2C+I'm+Mahmoud+Hashem+%F0%9F%91%BE" alt="Typing SVG">
   </a>
   
 </div>
 <img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 40px>
-<h3 align="center"><em>A Junior Software Engineer: Powered by Coffee Beans and Code Dreams</em></h3>
+<h3 align="center"><em>Software Engineer x Full-Stack Developer</em></h3>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=hoodahashem&label=Profile%20views&color=0e75b6&style=flat" alt="hoodahashem" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/mahmoudhashem26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mahmoudhashem26" height="30" width="40" /></a>
+<a href="https://twitter.com/hoodahashem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hoodahashem" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/hoodahashem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hoodahashem" height="30" width="40" /></a>
+<a href="https://instagram.com/mahmoudhashemd3v" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mahmoudhashemd3v" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/hoodadev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="hoodadev" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
