@@ -1,5 +1,9 @@
 ![](assets/Bottom_up.svg)
+<div align="center">
 
+<a href="mahmoudhashem.netlify.app"><img src="assets/logo-white.png" width=100px/></a>
+
+</div>
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=25&pause=1000&color=F7F7F7&center=true&vCenter=true&random=false&width=435&lines=Hi%2C+I'm+Mahmoud+Hashem+%F0%9F%91%BE" alt="Typing SVG">
@@ -9,7 +13,7 @@
 <img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 40px>
 <h3 align="center"><em>Software Engineer x Full-Stack Developer</em></h3>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
+<p align="center"> <a href="https://twitter.com/hoodahashem" target="blank"><img src="https://img.shields.io/twitter/follow/hoodahashem?logo=twitter&style=for-the-badge" alt="hoodahashem" /></a> </p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=hoodahashem&label=Profile%20views&color=0e75b6&style=flat" alt="hoodahashem" /> </p>
 
 <h3 align="left">Connect with me:</h3>
