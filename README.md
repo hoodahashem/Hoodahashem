@@ -1,7 +1,7 @@
 ![](assets/Bottom_up.svg)
 <div align="center">
 
-<a href="mahmoudhashem.netlify.app"><img src="assets/logo-white.png" width=100px/></a>
+<a href="https://mahmoudhashem.netlify.app" target="_blank"><img src="assets/logo-white.png" width=100px/></a>
 
 </div>
 <div align="center">
